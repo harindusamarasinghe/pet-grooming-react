@@ -7,7 +7,7 @@ function FrenchieDetailsPage() {
   return (
     <div>
       <FrenchieBread/>
-      <img src={price}></img>
+      <img src={price} alt='frenchie prices'></img>
       <Newsletter/>
     </div>
   )

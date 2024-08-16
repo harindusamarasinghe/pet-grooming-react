@@ -6,7 +6,7 @@ function FullServicePage() {
   return (
 	  <main>
 	    <BathBread/>
-		<img src={prices}></img>
+		<img src={prices} alt='fullservice-prices'></img>
 		<Newsletter/>
 	  </main>
   )
