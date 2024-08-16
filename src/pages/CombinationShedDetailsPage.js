@@ -7,7 +7,7 @@ function AddonDetailsPage() {
   return (
     <div>
       <AddonBread/>
-      <img src={prices}></img>
+      <img src={prices} alt='combination-shed-prices'></img>
       <Newsletter/>
     </div>
   )

@@ -7,7 +7,7 @@ function CorgiDetailsPage() {
   return (
     <div>
         <CorgiBread/>
-        <img src={price}></img>
+        <img src={price} alt='corgi-prices'></img>
         <Newsletter/>
     </div>
   )

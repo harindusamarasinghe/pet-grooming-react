@@ -5,7 +5,7 @@ function BathDetailsPage() {
   return (
     <div>
       <TidyBread/>
-      <img src={prices}></img>
+      <img src={prices} alt='bathdetails-prices'></img>
     </div>
   )
 }

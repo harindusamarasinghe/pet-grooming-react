@@ -6,7 +6,7 @@ function BullDogDetailsPage() {
   return (
     <div>
         <BullDogBread/>
-        <img src={price}></img>
+        <img src={price} alt='bulldog-details-prices'></img>
         <Newsletter/>
     </div>
   )

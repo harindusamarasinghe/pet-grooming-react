@@ -6,7 +6,7 @@ function IndividualDetailsPage() {
   return (
     <div>
       <IndividualBread/>
-      <img src={price}></img>
+      <img src={price} alt='individual-prices'></img>
       <Newsletter/>
     </div>
   )

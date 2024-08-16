@@ -7,7 +7,7 @@ function CommbinationDetailsPage() {
   return (
     <div>
       <GroomBread/>
-      <img src={price}></img>
+      <img src={price} alt='combination-prices'></img>
       <Newsletter/>
     </div>
   )

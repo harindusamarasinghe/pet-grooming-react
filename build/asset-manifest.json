@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86c51496.css",
+    "main.js": "/static/js/main.35f8b203.js",
+    "static/media/Logo transparent.png": "/static/media/Logo transparent.518cf21ff2be6e3a7f0d.png",
+    "static/media/faq_bg.jpg": "/static/media/faq_bg.dbf88a19f534d4ce27ba.jpg",
+    "static/media/CompleteGroom.jpg": "/static/media/CompleteGroom.ad4a85ea91f2e1fafc65.jpg",
+    "static/media/breadcrumb.jpg": "/static/media/breadcrumb.71101962d02d4c646202.jpg",
+    "static/media/Newport Price List V3-4.png": "/static/media/Newport Price List V3-4.9e30971f97f8028f3e38.png",
+    "static/media/Newport Price List V3-1.png": "/static/media/Newport Price List V3-1.d3e787154125d070068c.png",
+    "static/media/Newport Price List V3-6.png": "/static/media/Newport Price List V3-6.51bc760770293258a9f9.png",
+    "static/media/Newport Price List V3-7.png": "/static/media/Newport Price List V3-7.1b9a5cf10a2c92310104.png",
+    "static/media/Newport Price List V3-3.png": "/static/media/Newport Price List V3-3.5fbd91400e011665a8c3.png",
+    "static/media/Newport Price List V3-8.png": "/static/media/Newport Price List V3-8.36e8c4aea7350949c29f.png",
+    "static/media/bath01.jpg": "/static/media/bath01.b86563be6bcbfc26180e.jpg",
+    "static/media/s_faq_img.jpg": "/static/media/s_faq_img.d00fbaa6710e5397b2e3.jpg",
+    "static/media/Newport Price List V3-5.png": "/static/media/Newport Price List V3-5.e474a32996ea82f98f59.png",
+    "static/media/Newport Price List V3-9.png": "/static/media/Newport Price List V3-9.0043f2951fc3e1266669.png",
+    "static/media/Newport Price List V3-2.png": "/static/media/Newport Price List V3-2.3f05e57b5ff7e20acbe7.png",
+    "static/media/breeder_bg.jpg": "/static/media/breeder_bg.fa60d19426889d51915c.jpg",
+    "static/media/breeder_details_bg.jpg": "/static/media/breeder_details_bg.0228c6dc5f1a9531e615.jpg",
+    "static/media/newsletter_bg.jpg": "/static/media/newsletter_bg.3e46e0ff4f2ac704d891.jpg",
+    "static/media/Add-ons.jpg": "/static/media/Add-ons.88404e71134987d17f61.jpg",
+    "static/media/footer_bg.jpg": "/static/media/footer_bg.0fd9b1b931158d6b6762.jpg",
+    "static/media/tidyUp.jpg": "/static/media/tidyUp.9babe0b4f11823b474a2.jpg",
+    "static/media/testimonial_bg.jpg": "/static/media/testimonial_bg.7355688874bda7d4a36c.jpg",
+    "static/media/adaption_mask.jpg": "/static/media/adaption_mask.b07ae51a3aea3ec7135d.jpg",
+    "static/media/adoption_shop_bg.jpg": "/static/media/adoption_shop_bg.8f455e0666c628d7f0c3.jpg",
+    "static/media/copyright_shape.png": "/static/media/copyright_shape.4391be74e20a8435e422.png",
+    "static/media/faq_bg_shape02.png": "/static/media/faq_bg_shape02.c5774e70fcd5ca12dfdd.png",
+    "static/media/breed_services_shape02.png": "/static/media/breed_services_shape02.a7e56f5e81bbb964bee3.png",
+    "static/media/testimonial.svg": "/static/media/testimonial.6672501029ba2333749a.svg",
+    "index.html": "/index.html",
+    "static/media/banner_text_shape.svg": "/static/media/banner_text_shape.44e13bf2c2bdce28ab02.svg",
+    "main.86c51496.css.map": "/static/css/main.86c51496.css.map",
+    "main.35f8b203.js.map": "/static/js/main.35f8b203.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86c51496.css",
+    "static/js/main.35f8b203.js"
+  ]
+}
