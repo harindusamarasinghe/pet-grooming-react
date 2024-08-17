@@ -7,7 +7,7 @@ function GoldernDetailsPage() {
   return (
     <div>
         <GoldernBread/>
-        <img src={price}></img>
+        <img src={price} alt='goldern-prices'></img>
         <Newsletter/>
     </div>
   )
