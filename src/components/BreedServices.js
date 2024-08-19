@@ -119,7 +119,7 @@ function BreedServices() {
             <h5 className="sub-title">Dog Breeder</h5>
             <h3 className="title">Available for Breed</h3>
             <p>Discover our range of dog grooming services to keep your pet looking and feeling great.</p>
-            <Link to="/doglist" className="btn">View Services <img src="img/icon/w_pawprint.png" alt="" /></Link>
+            <Link to="/" className="btn">View Services <img src="img/icon/w_pawprint.png" alt="" /></Link>
           </div>
         </div>
       </div>
