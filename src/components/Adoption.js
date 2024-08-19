@@ -22,7 +22,7 @@ function Appoinment() {
             <h5 style={{marginBottom:'2%'}}>HENLEY STYLE GROOMING, LLC.</h5>
             <h6 style={{marginBottom:'3%'}}>213 S. Robertson Blvd, Beverly Hills, CA 90211<br/>424-355-0103<br/>
             groom@henleystyle.com</h6>
-            <Link to="/adoption" className="btn">Appoinment <img src="img/icon/w_pawprint.png" alt="" /></Link>
+            <Link to="/" className="btn">Appoinment <img src="img/icon/w_pawprint.png" alt="" /></Link>
           </div>
         </div>
       </div>
