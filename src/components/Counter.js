@@ -12,7 +12,7 @@ function Counter() {
         <div className="col-xl-6 col-lg-8">
           <div className="counter-title text-center mb-65">
             <h6 className="sub-title">Why Choose Us?</h6>
-            <h2 className="title">Best Service to Breeds Your Loved Dog Explore</h2>
+            <h2 className="title">We are dedicated to providing the highest standard of grooming care. </h2>
           </div>
         </div>
       </div>
@@ -45,8 +45,8 @@ function Counter() {
       <div className='why-text'>
                 
                 <div >
-                    <h3 className='whyChooseUs-h3'>We are the right term for your business. We have the expertise and 
-                        knowledge to offer impartial advice and services at an honest price.</h3>
+                    <h3 className='whyChooseUs-h3'>Our commitment to excellence means we continually refine our techniques and services to ensure we meet and exceed your expectations.
+                    Choose us for grooming services that prioritize your pet’s well-being, comfort, and happiness. Experience the difference of quality grooming with a team that truly cares about your furry friend.</h3>
                 </div>
                
                 </div>

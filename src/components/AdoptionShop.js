@@ -1,5 +1,6 @@
 import React from "react";
 import {Link} from 'react-router-dom'
+import CompleteGroom from "../img/images/CompleteGroom.jpg"
 
 function AdoptionShop() {
   return (
@@ -9,8 +10,8 @@ function AdoptionShop() {
         <div className="col-xl-7 col-lg-9">
           <div className="section-title text-center mb-65">
             <div className="section-icon"><img src="img/icon/pawprint.png" alt="" /></div>
-            <h5 className="sub-title">Meet the animals</h5>
-            <h2 className="title">Puppies Waiting for Adoption</h2>
+            <h5 className="sub-title">Our Services</h5>
+            <h2 className="title">Your puppy needs this !</h2>
             <p>The best overall dog DNA test is Embark Breed &amp; Health Kit (view at Chewy), which provides you with a
               breed brwn and information Most dogs</p>
           </div>
@@ -20,8 +21,8 @@ function AdoptionShop() {
         <div className="col-lg-4 col-md-6">
           <div className="adoption-shop-item">
             <div className="adoption-shop-thumb">
-              <img src="img/product/adoption_shop_thumb01.jpg" alt="" />
-              <Link to="/shop-details" className="btn">Adoption <img src="img/icon/w_pawprint.png" alt="" /></Link>
+              <img src={CompleteGroom} alt="" />
+              <Link to="/shop-details" className="btn">Complete Groom <img src="img/icon/w_pawprint.png" alt="" /></Link>
             </div>
             <div className="adoption-shop-content">
               <h4 className="title"><Link to="/shop-details">Mister Tartosh</Link></h4>

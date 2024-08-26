@@ -10,11 +10,11 @@ function AdoptionBreadcumb() {
 					<div className="row">
 						<div className="col-12">
 						<div className="breadcrumb-content">
-							<h2 className="title">Get Adoption</h2>
+							<h2 className="title">About Us</h2>
 							<nav aria-label="breadcrumb">
 							<ol className="breadcrumb">
 								<li className="breadcrumb-item"><Link to="/">Home</Link></li>
-								<li className="breadcrumb-item active" aria-current="page">Adoption</li>
+								<li className="breadcrumb-item active" aria-current="page">About Us</li>
 							</ol>
 							</nav>
 						</div>

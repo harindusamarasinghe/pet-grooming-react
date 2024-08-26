@@ -12,30 +12,30 @@ function ContactAddress() {
                       <li>
                         <div className="icon"><i className="fas fa-map-marker-alt" /></div>
                         <div className="content">
-                          <p>W84 New Park Lan, New York, NY 4586 United States</p>
+                          <p>1916 Harbor Blvd, Costa Mesa, CA 92627</p>
                         </div>
                       </li>
                       <li>
                         <div className="icon"><i className="fas fa-phone-alt" /></div>
                         <div className="content">
-                          <p>+9 (256) 254 9568</p>
+                          <p>(949) 500-1765</p>
                         </div>
                       </li>
                       <li>
                         <div className="icon"><i className="fas fa-envelope-open" /></div>
                         <div className="content">
-                          <p>Contact@ info.com</p>
+                          <p>happypaws@nodspa.com</p>
                         </div>
                       </li>
                     </ul>
                   </div>
 
                   <div className="contact-social">
-                    <ul>
-                      <li><a href="/#"><i className="fab fa-facebook-f" /></a></li>
-                      <li><a href="/#"><i className="fab fa-twitter" /></a></li>
-                      <li><a href="/#"><i className="fab fa-linkedin-in" /></a></li>
-                    </ul>
+                  <ul>
+                  <li><a href="https://www.yelp.com/biz/newport-doggy-spa-costa-mesa"><i className="fab fa-yelp" /></a></li>
+                  <li><a href="https://www.instagram.com/newport_doggy_spa/"><i className="fab fa-instagram" /></a></li>
+                  <li><a href="https://g.co/kgs/yQD43xG"><i className="fab fa-google" /></a></li>
+                </ul>
                   </div>
                 </div>
               </div>

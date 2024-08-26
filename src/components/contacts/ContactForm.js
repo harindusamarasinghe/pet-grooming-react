@@ -9,7 +9,7 @@ function ContactForm() {
   const handleChange = (e) => {
     const { id, value } = e.target;
     if (id === 'name') setName(value);
-    if (id === 'email') setEmail(value);
+    if (id === 'Phone number') setEmail(value);
     if (id === 'message') setMessage(value);
   };
 
@@ -26,7 +26,7 @@ function ContactForm() {
                 <h2 className="title">Let's Discuss your Question<span>.</span></h2>
               </div>
               <div className="contact-wrap-content">
-                <p>The domestic dog is a domesticated descendant of the wolf. The dog derived from an ancient, extinct wolf, and the modern grey.</p>
+                <p>Write to us.</p>
                 <form className="contact-form" action="https://api.web3forms.com/submit" method="POST">
                   <input type="hidden" name="access_key" value="43955df7-b6b0-4441-9a3a-67a317767eef" />
                   <input type="hidden" name="redirect" value="https://web3forms.com/success" />
@@ -37,8 +37,8 @@ function ContactForm() {
                     <input type="text" id="name" name="name" placeholder="Jon Doe..." value={name} onChange={handleChange} required />
                   </div>
                   <div className="form-grp">
-                    <label htmlFor="email">Your Email <span>*</span></label>
-                    <input type="email" id="email" name="email" placeholder="info@example.com" value={email} onChange={handleChange} required />
+                    <label htmlFor="email">Your Phone <span>*</span></label>
+                    <input type="number" id="email" name="email" placeholder="0677001234" value={email} onChange={handleChange} required />
                   </div>
                   <div className="form-grp">
                     <label htmlFor="message">Your Message <span>*</span></label>
@@ -47,7 +47,7 @@ function ContactForm() {
                   <div className="form-grp checkbox-grp">
                     <input type="checkbox" id="checkbox" name="hide_email" style={{ display: 'none' }} value="yes" />
                   </div>
-                  <button type="submit" className="btn rounded-btn">Send Now</button>
+                  <button type="submit" className="btn rounded-btn">Text Us</button>
                 </form>
               </div>
             </div>

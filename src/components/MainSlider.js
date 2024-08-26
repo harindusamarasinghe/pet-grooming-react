@@ -31,7 +31,7 @@ function MainSlider() {
                   <div className="slider-desc">
                     <p className="desc" data-animation="fadeInUpBig" data-delay=".4s" data-duration="1.2s">Let's spruce up your furry buddy! It's all about good vibes and shiny tails here</p>
                   </div>
-                  <Link to="/doglist" className="btn" data-animation="fadeInUpBig" data-delay=".6s" data-duration="1.2s">View More <img src="img/icon/w_pawprint.png" alt="" /></Link>
+                  <Link to="/" className="btn" data-animation="fadeInUpBig" data-delay=".6s" data-duration="1.2s">View More <img src="img/icon/w_pawprint.png" alt="" /></Link>
                 </div>
               </div>
             </div>

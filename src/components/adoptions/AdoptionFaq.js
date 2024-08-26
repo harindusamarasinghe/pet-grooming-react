@@ -12,6 +12,7 @@ function AdoptionFaq() {
                 <div className="section-title white-title mb-35">
                   <h5 className="sub-title">ABOUT US</h5>
                   <h2 className="title">Why Choose Us?</h2>
+                  <p style={{color:'white', fontSize:'14px'}}>Choosing Newport Doggy Spa means choosing a team that truly cares about your pet’s well-being. Our personalized approach, attention to detail, and commitment to creating a positive grooming experience set us apart. We take the time to understand your pet’s specific needs and work to make each grooming session enjoyable and stress-free.</p>
                 </div>
                 <div className="accordion" id="accordionExample">
                   <div className="card">
@@ -24,7 +25,7 @@ function AdoptionFaq() {
                     </div>
                     <div id="collapseOne" className="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                       <div className="card-body">
-                      For over 20 years, Henley has been serving the pets and families of our local area. We love caring and connecting with animals and creating everlasting relationships. We provide care for your fur baby as if they were our own, and ensure that they receive the highest quality of care while you're away. 
+                      For over 6 years, Newport Doggy Spa has been serving the pets and families of our local area. We love caring and connecting with animals and creating everlasting relationships. We provide care for your fur baby as if they were our own, and ensure that they receive the highest quality of care while you're away.
                       </div>
                     </div>
                   </div>
@@ -32,13 +33,13 @@ function AdoptionFaq() {
                     <div className="card-header" id="headingTwo">
                       <h2 className="mb-0">
                         <button className="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        Reliable And Trustworthy Caretakers
+                        Our Commitment
                         </button>
                       </h2>
                     </div>
                     <div id="collapseTwo" className="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                       <div className="card-body">
-                      When you live a busy life, it is hard to consistently provide the attention and care that your pets can demand. With years of satisfied owners and loved pets, you can rely on us to make sure your pet is pampered and loved.
+                      We are committed to providing the highest standard of grooming care while building lasting relationships with our clients and their pets. Our dedication to excellence means we continually strive to improve our services and stay ahead of industry trends to ensure we offer the best for your furry friends.
                       </div>
                     </div>
                   </div>
@@ -46,13 +47,14 @@ function AdoptionFaq() {
                     <div className="card-header" id="headingThree">
                       <h2 className="mb-0">
                         <button className="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        Satisfaction Guranteed
+                        Join Our Family
                         </button>
                       </h2>
                     </div>
                     <div id="collapseThree" className="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                       <div className="card-body">
-                      We are always prepared for any pet's needs and ensure that your pet will receive the best care and love. Their happiness and care is our top priority and we strive to provide services that we personally would want and expect our own pets to receive.
+                      We invite you to experience the difference at Newport Doggy Spa. Whether you’re a first-time visitor or a long-time client, we look forward to welcoming you and your pet into our grooming family. Let us show you how quality grooming can make a positive impact on your pet’s life.
+Thank you for considering us for your pet’s grooming needs. We’re excited to meet you and your furry friend soon!
                       </div>
                     </div>
                   </div>

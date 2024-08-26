@@ -26,8 +26,8 @@ function Header(){
               <div className="col-md-7">
                 <div className="header-top-left">
                   <ul>
-                    <li>Call us: 747-800-9880</li>
-                    <li><i className="far fa-clock" />Opening Hours: 7:00 am - 9:00 pm (Mon - Sun)</li>
+                    <li>Call us: (949) 500-1765</li>
+                    <li><i className="far fa-clock" />Opening Hours: 9:00 am - 5:00 pm (Mon - Fri) 8:30 am - 4:30 pm (Sat) 10:00 am - 4:00 pm (Sun)</li>
                   </ul>
                 </div>
               </div>
@@ -83,7 +83,7 @@ function Header(){
                         </li>
                         {/* <li className="menu-item-has-children"><Link to="/blogs" onClick={(e)=> handleActive(e)}>Blog</Link>  
                         </li> */}
-                        {/* <li><Link to="/adoption" onClick={(e)=> handleActive(e)}>About Us</Link></li> */}
+                        <li><Link to="/adoption" onClick={(e)=> handleActive(e)}>About Us</Link></li>
                         <li><Link to="/contacts" onClick={(e)=> handleActive(e)}>Contact Us</Link></li>
                       </ul>
                     </div>
@@ -137,11 +137,11 @@ function Header(){
                           </ul>
                         </li> */}
                     <li className="header-btn">
-                      <a href="https://wa.me/94768901423?text=I'm%20interested%20in%20booking%20an%20appointment." 
-                        className="btn" 
-                        style={{ textDecoration: 'none', color: 'white' }}>
-                        Book Now <img src="img/icon/w_pawprint.png" alt="" />
-                      </a>
+                    <a href="sms:+19495001765"
+                      className="btn" 
+                      style={{ textDecoration: 'none', color: 'white' }}>
+                      Book Now <img src="img/icon/w_pawprint.png" alt="Paw Print" />
+                    </a>
                     </li>
                       </ul>
                     </div>

@@ -21,44 +21,29 @@ function Footer() {
               <div className="footer-contact">
                 <div className="icon"><i className="fas fa-headphones" /></div>
                 <div className="content">
-                  <h4 className="title"><a href="tel:0987654321">747-800-9880</a></h4>
+                  <h4 className="title"><a href="tel:+19495001765">(949) 500-1765</a></h4>
                   <span>Call Now</span>
                 </div>
               </div>
             </div>
           </div>
-          <div className="col-2">
-            <div className="footer-widget">
-              <h4 className="fw-title">Our Policies</h4>
-              <div className="fw-link">
-                <ul>
-                  <li><Link to="/contacts">Privacy Policy</Link></li>
-                  <li><Link to="/contacts">Terms and Conditions</Link></li>
-                  <li><Link to="/contacts">Our Conditions</Link></li>
-                </ul>
-              </div>
-              
-            </div>
-            
-          </div>
-          <div className="col-2">
+          <div>
             <div className="footer-widget">
               <h4 className="fw-title">Our Services</h4>
               <div className="fw-link">
                 <ul>
-                  <li><Link to="/">Our Breeder</Link></li>
-                  <li><Link to="/">Our Adoption</Link></li>
-                  <li><Link to="/contacts">Contact Us</Link></li>
+                  <li><Link to="/bath-details">Bath & Brush</Link></li>
+                  <li><Link to="/full-details">Full Service</Link></li>
+                  <li><Link to="/combination-details">Combination</Link></li>
                 </ul>
               </div>
             </div>
           </div>
           <div className="footer-social">
                 <ul>
-                  <li><a href="/#"><i className="fab fa-facebook-f" /></a></li>
-                  <li><a href="/#"><i className="fab fa-twitter" /></a></li>
-                  <li><a href="/#"><i className="fab fa-youtube" /></a></li>
-                  <li><a href="/#"><i className="fab fa-linkedin-in" /></a></li>
+                  <li><a href="https://www.yelp.com/biz/newport-doggy-spa-costa-mesa"><i className="fab fa-yelp" /></a></li>
+                  <li><a href="https://www.instagram.com/newport_doggy_spa/"><i className="fab fa-instagram" /></a></li>
+                  <li><a href="https://g.co/kgs/yQD43xG"><i className="fab fa-google" /></a></li>
                 </ul>
               </div>
           

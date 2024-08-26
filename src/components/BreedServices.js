@@ -25,8 +25,8 @@ function BreedServices() {
     arrows: true,
     prevArrow:<PrevArrow/>,
     autoplaySpeed: 4000,
-	  slidesToShow: 2,
-	  slidesToScroll: 2,
+	  slidesToShow: 3,
+	  slidesToScroll: 3,
 	responsive: [
 		{
 			breakpoint: 1200,
@@ -112,15 +112,15 @@ function BreedServices() {
                 <h3 className="title"><Link to="/combination-details">Combination</Link></h3>
               </div>
             </div>
+            <div className="breed-services-item">
+              <div className="thumb">
+                <img src={tidy} alt=""  className='breed-img'/>
+              </div>
+              <div className="content">
+                <h3 className="title"><Link to="/combination-details">Combination Shed Control</Link></h3>
+              </div>
+            </div>
           </Slider>
-        </div>
-        <div className="col-lg-4 col-md-6">
-          <div className="breed-services-info" style={{backgroundImage:'url("img/bg/breed_services_bg.jpg")'}}>
-            <h5 className="sub-title">Dog Breeder</h5>
-            <h3 className="title">Available for Breed</h3>
-            <p>Discover our range of dog grooming services to keep your pet looking and feeling great.</p>
-            <Link to="/" className="btn">View Services <img src="img/icon/w_pawprint.png" alt="" /></Link>
-          </div>
         </div>
       </div>
     </div>

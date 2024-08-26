@@ -19,10 +19,9 @@ function Appoinment() {
             <h2 className="title">SCHEDULE AN<br /> Dog <span>APPOINTMENT</span> </h2>
             <p>We love caring for pets! Schedule right here on our site for a meet and greet, or to make any pet services appointment. If you have a special request, send us a message, and we'll get back to you as soon as possible.</p>
 
-            <h5 style={{marginBottom:'2%'}}>HENLEY STYLE GROOMING, LLC.</h5>
-            <h6 style={{marginBottom:'3%'}}>213 S. Robertson Blvd, Beverly Hills, CA 90211<br/>424-355-0103<br/>
-            groom@henleystyle.com</h6>
-            <Link to="/" className="btn">Appoinment <img src="img/icon/w_pawprint.png" alt="" /></Link>
+            <h5 style={{marginBottom:'2%'}}>Newport Doggy Spa</h5>
+            <h6 style={{marginBottom:'3%'}}>1916 Harbor Blvd, Costa Mesa, CA 92627<br/>(949) 500-1765<br/>happypaws@nodspa.com</h6>
+            <a href="tel:+19495001765" className="btn">Call Now<img src="img/icon/w_pawprint.png" alt="" /></a>
           </div>
         </div>
       </div>
