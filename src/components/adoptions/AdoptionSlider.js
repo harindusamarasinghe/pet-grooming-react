@@ -1,7 +1,4 @@
 import React from 'react';
-import {Link} from 'react-router-dom'
-import HomeCounter from '../hometwo/HomeCounter'
-import Slider from 'react-slick'
 
 function AdoptionSlider() {
   return (
